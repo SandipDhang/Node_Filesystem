@@ -1,0 +1,19 @@
+{
+  "name": "solution",
+  "version": "1.0.0",
+  "description": "Module 2 solution",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "edureka"
+  ],
+  "author": "SandipDhang",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.concat": "^4.5.0"
+  }
+}
